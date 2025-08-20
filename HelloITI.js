@@ -1,6 +1,6 @@
 class HelloITI {
     printHelloITI() {
-        console.log("Hello ITI");
+        console.log("Hello ITI!");
     }
 
     printHelloGit() {
