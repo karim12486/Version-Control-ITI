@@ -6,6 +6,10 @@ class HelloJava {
     printHelloCS(){
         console.log("Hello CS students!!");
     }
+
+    printSum(x, y){
+        console.log(x+y);
+    }
 }
 
 module.exports = HelloJava;
