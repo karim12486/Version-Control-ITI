@@ -4,7 +4,7 @@ class HelloJava {
     }
 
     printHelloCS(){
-        console.log("Hello CS students!");
+        console.log("Hello CS students!!");
     }
 }
 
