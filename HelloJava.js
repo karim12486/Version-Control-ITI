@@ -11,5 +11,5 @@ class HelloJava {
         console.log(x+y);
     }
 }
-
+printSum(2,3);
 module.exports = HelloJava;
