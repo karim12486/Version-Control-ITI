@@ -1,7 +1,7 @@
-class HelloWorld {
+class HelloJava {
     printHelloWorld() {
         console.log("Hello World");
     }
 }
 
-module.exports = HelloWorld;
+module.exports = HelloJava;
